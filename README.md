@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+JunWu is a Youtube channel where I post bad music arrangements.
+
+**Visit my youtube channel:** [JunWu](https://www.youtube.com/channel/UCHtgO7voqfIBUuHn-HEp_ng)
+
 <!--
 **junwumusic/junwumusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
